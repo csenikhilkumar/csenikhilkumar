@@ -45,15 +45,15 @@
 
 ## 📈 GitHub Stats
 
-![Nikhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![Nikhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=csenikhilkumar & show_icons=true&theme=radical)
 
 ---
 
 ## 🤝 Let's Connect
 
-- 🧠 Sharing & Learning: [LinkedIn](https://linkedin.com/)
-- 🔐 Building on Web3: [Twitter](https://twitter.com/)
-- 🧰 Personal Projects: [Portfolio](https://yourportfolio.com)
+- 🧠 Sharing & Learning: [LinkedIn](https://www.linkedin.com/in/nikhil-kumar-21568a27b/)
+
+
 
 ---
 
