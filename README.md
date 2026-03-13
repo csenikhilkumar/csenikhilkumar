@@ -60,6 +60,7 @@ class Nikhil:
 **// FRONTEND & BACKEND**
 
 ![React](https://img.shields.io/badge/React-0a0a0a?style=for-the-badge&logo=react&logoColor=00ccff)
+![Next.js](https://img.shields.io/badge/Next.js-0a0a0a?style=for-the-badge&logo=nextdotjs&logoColor=ffffff)
 ![Vite](https://img.shields.io/badge/Vite-0a0a0a?style=for-the-badge&logo=vite&logoColor=646CFF)
 ![Node.js](https://img.shields.io/badge/Node.js-0a0a0a?style=for-the-badge&logo=node.js&logoColor=00ff88)
 ![Express.js](https://img.shields.io/badge/Express.js-0a0a0a?style=for-the-badge&logo=express&logoColor=ffffff)
@@ -68,6 +69,7 @@ class Nikhil:
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0a0a?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 ![Prisma](https://img.shields.io/badge/Prisma-0a0a0a?style=for-the-badge&logo=prisma&logoColor=00ccff)
+![MongoDB](https://img.shields.io/badge/MongoDB-0a0a0a?style=for-the-badge&logo=mongodb&logoColor=00ff88)
 
 **// ⛓ WEB3 & BLOCKCHAIN**
 
