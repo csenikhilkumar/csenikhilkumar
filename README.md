@@ -142,7 +142,7 @@ class Nikhil:
   units who accessed this terminal:
 ```
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=csenikhilkumar&label=VISITORS%20DETECTED&color=12&icon=6&pretty=true)
+[![](https://komarev.com/ghpvc/?username=csenikhilkumar&label=VISITORS+DETECTED&color=00ff88&style=for-the-badge)](https://github.com/csenikhilkumar)
 
 ```
 ─────────────────────────────────────────────────────────
