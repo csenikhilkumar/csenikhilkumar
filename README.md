@@ -142,7 +142,7 @@ class Nikhil:
   units who accessed this terminal:
 ```
 
-![Visitor Count](https://profile-counter.glitch.me/csenikhilkumar/count.svg)
+![Visitor Count](https://visitcount.itsvg.in/api?id=csenikhilkumar&label=VISITORS%20DETECTED&color=12&icon=6&pretty=true)
 
 ```
 ─────────────────────────────────────────────────────────
